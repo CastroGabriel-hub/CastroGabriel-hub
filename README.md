@@ -5,9 +5,7 @@ I'm a Web Developer and computer lover
 
 
 ##
-<div style="displey= flex;
-            flex-direction: row;
-            align-items: center;">
+<div style="display= inline_block">
   <img height="170px"src="https://github-readme-stats.vercel.app/api?username=CastroGabriel-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroGabriel-hub&layout=compact&langs_count=7&theme=dracula">
 </div>
