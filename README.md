@@ -5,7 +5,7 @@ I'm a Web Developer and computer lover
 
 
 ##
-<div>
+<div style="displey= inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CastroGabriel-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastroGabriel-hub&layout=compact&langs_count=7&theme=dracula">
 </div>
