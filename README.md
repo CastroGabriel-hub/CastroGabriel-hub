@@ -19,4 +19,7 @@ I'm a Web Developer and computer lover
   <img align="center" alt="Castro-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Castro-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
+  
+##
           
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif?raw=true" alt="Mario Game" width="980">
