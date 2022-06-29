@@ -3,7 +3,6 @@
 I'm a Web Developer and computer lover
 
 
-
 ##
 <div style="display= inline_block">
   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=CastroGabriel-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
